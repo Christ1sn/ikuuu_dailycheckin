@@ -8,9 +8,9 @@ passwd = os.environ.get('PASSWD')
 # server酱
 SCKEY = os.environ.get('SCKEY')
 
-login_url = 'https://ikuuu.ch/auth/login'
-check_url = 'https://ikuuu.ch/user/checkin'
-info_url = 'https://ikuuu.ch/user/profile'
+login_url = 'https://ikuuu.de/auth/login'
+check_url = 'https://ikuuu.de/user/checkin'
+info_url = 'https://ikuuu.de/user/profile'
 
 header = {
         'origin': 'https://ikuuu.art',
